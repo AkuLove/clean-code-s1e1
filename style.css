@@ -46,7 +46,7 @@ button {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .add-item__wrapper {
@@ -127,7 +127,7 @@ button {
 }
 
 [type="text"] {
-  width: 226px
+  width: 226px;
 }
 
 .delete img {
@@ -146,12 +146,12 @@ button {
 }
 /* Edit Task */
 [type="text"] {
-  display: none
+  display: none;
 }
 
 .edit-mode [type="text"] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode #label {
